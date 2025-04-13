@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+
+}
+
+h1 {
+    color: #333;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #006803;
+    color: white;
+    border: none;
+    cursor: pointer;
+    box-shadow: 15px 0px 15px blue;
+
+}
+
+button:hover {
+    background-color:lawngreen;
+    color: rgb(241, 0, 0);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    background-color: whitesmoke;
+    margin: 5px 0;
+    border-radius: 5px;
+}
