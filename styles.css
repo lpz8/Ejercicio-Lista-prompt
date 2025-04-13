@@ -7,6 +7,8 @@ body {
 
 h1 {
     color: #333;
+    box-shadow: 0px 25px 25px rgb(218, 49, 49);
+    border-color: black;
 }
 
 button {
